@@ -425,7 +425,7 @@ export default function SymptomChecker() {
               style={{ background: "linear-gradient(135deg, #1e3a8a, #1565c0)", backgroundColor: "#1e3a8a" }}
             >
               <CardTitle className="flex items-center gap-2 text-white text-xl">
-                <Search className="w-6 h-6" />
+                <Search className="w-12 h-12" />
                 Symptom Assessment
               </CardTitle>
             </CardHeader>
